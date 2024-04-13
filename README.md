@@ -5,12 +5,9 @@
 I am a Data Scientist and Research Assistant at the Northeastern DATA Initiative, with a keen interest in leveraging data and machine learning to drive business impact. My expertise lies in developing and deploying data-driven solutions, conducting comprehensive analyses, and translating insights into actionable recommendations.
 
 ## Experience
-
-### Data Scientist - Research Assistant | Northeastern DATA Initiative | Boston, MA | Oct 2023-Present
-
-### Data Science Intern | Fidelity Investments | Boston, MA | July 2023-Dec 2023
-
-### Software Engineer | Fidelity Investments | Bengaluru, India | Aug 2019-July 2022
+- **Data Scientist - Research Assistant** | Northeastern DATA Initiative | Boston, MA | Jan 2024-Present
+- **Data Science Intern** | Fidelity Investments | Boston, MA | July 2023-Dec 2023
+- **Software Engineer** | Fidelity Investments | Bangalore, India | Aug 2019-July 2022
 
 ## Skills
 
