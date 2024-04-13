@@ -11,7 +11,7 @@ I am a Data Scientist and Research Assistant at the Northeastern DATA Initiative
 
 - **Programming Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, PySpark
-- **Machine Learning:** Regression, Classification, Tree Algorithms (Bagging, Boosting), Time Series Analysis, Natural Language Processing
+- **Machine Learning:** Regression, Classification, Tree Algorithms (Bagging, Boosting), Recommendation Systems, A/B Testing, Natural Language Processing, Time Series Analysis
 - **Deep Learning:** PyTorch, Tensorflow, HuggingFace
 - **Cloud Computing:** AWS (S3, Lambda, EventBridge, Athena)
 - **Data Visualization:** Matplotlib, Seaborn, Tableau
