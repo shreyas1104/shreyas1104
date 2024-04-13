@@ -9,11 +9,12 @@ I am a Data Scientist and Research Assistant at the Northeastern DATA Initiative
 
 ## 💻 Skills
 
-- **Programming Languages:** Python, SQL, JavaScript (Angular)
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Machine Learning:** Regression, Classification, Tree algorithms, Time Series Analysis
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Scikit-learn, PySpark
+- **Machine Learning:** Regression, Classification, Tree Algorithms (Bagging, Boosting), Time Series Analysis, Natural Language Processing
+- **Deep Learning:** PyTorch, Tensorflow, HuggingFace
 - **Cloud Computing:** AWS (S3, Lambda, EventBridge, Athena)
-- **Data Visualization:** Matplotlib, Tableau
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
 - **Version Control:** Git, GitHub
 - **Project Management:** Jira, Confluence
 
