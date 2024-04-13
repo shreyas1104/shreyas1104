@@ -1,16 +1,35 @@
-### Hi there 👋
+# Shreyas Dikshit
 
-<!--
-**shreyas1104/shreyas1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Data Scientist and Research Assistant at the Northeastern DATA Initiative, with a keen interest in leveraging data and machine learning to drive business impact. My expertise lies in developing and deploying data-driven solutions, conducting comprehensive analyses, and translating insights into actionable recommendations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+### Data Scientist - Research Assistant | Northeastern DATA Initiative | Boston, MA | Oct 2023-Present
+
+### Data Science Intern | Fidelity Investments | Boston, MA | July 2023-Dec 2023
+
+### Software Engineer | Fidelity Investments | Bengaluru, India | Aug 2019-July 2022
+
+## Skills
+
+- **Programming Languages:** Python, SQL, JavaScript (Angular)
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Machine Learning:** Regression, Classification, Tree algorithms, Time Series Analysis
+- **Cloud Computing:** AWS (S3, Lambda, EventBridge, Athena)
+- **Data Visualization:** Matplotlib, Tableau
+- **Version Control:** Git, GitHub
+- **Project Management:** Jira, Confluence
+
+## Education
+
+- M.S. in Data Science @ Northeastern University, Boston, MA (Expected May 2024)
+- B.Tech. in Computer Science and Engineering @ Visvesvaraya National Institute of Technology, Nagpur, India (2019)
+
+## Contact
+
+Feel free to reach out to me for collaboration, project discussions, or any other inquiries:
+
+- Email: `shreyas.dikshit11@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/shreyasdikshit/`
