@@ -1,5 +1,3 @@
-# Shreyas Dikshit
-
 ## About Me
 
 I am a Data Scientist and Research Assistant at the Northeastern DATA Initiative, with a keen interest in leveraging data and machine learning to drive business impact. My expertise lies in developing and deploying data-driven solutions, conducting comprehensive analyses, and translating insights into actionable recommendations.
